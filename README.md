@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=mohanrajaddluru&label=Profile%20Visits&color=blue&style=for-the-badge)
+
+  
+
 <!--
 **mohanrajaddluru/mohanrajaddluru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
